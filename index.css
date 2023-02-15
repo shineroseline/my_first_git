@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+p{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: green;
+}
